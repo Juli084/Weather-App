@@ -1,7 +1,5 @@
-body{
+@import "tailwindcss";
+
+body {
   background: rgb(191, 199, 134);
 }
-
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
