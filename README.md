@@ -9,6 +9,8 @@ Previsão do tempo para qualquer cidade. A tela mostra:
 
 React 19, TypeScript, Tailwind e Vite, com dados abertos da [Open-Meteo](https://open-meteo.com/).
 
+**No ar:** [tempo-agora-jade.vercel.app](https://tempo-agora-jade.vercel.app)
+
 ![Previsão de Sorocaba no computador: agora, próximas 24 horas, 7 dias, sensação, umidade, vento e UV](docs/tela.webp)
 
 <details>
