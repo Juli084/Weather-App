@@ -9,6 +9,15 @@ Previsão do tempo para qualquer cidade. A tela mostra:
 
 React 19, TypeScript, Tailwind e Vite, com dados abertos da [Open-Meteo](https://open-meteo.com/).
 
+![Previsão de Sorocaba no computador: agora, próximas 24 horas, 7 dias, sensação, umidade, vento e UV](docs/tela.webp)
+
+<details>
+<summary>No celular</summary>
+
+![A mesma previsão no celular, em três partes da página](docs/celular.webp)
+
+</details>
+
 ## O que faz
 
 - **Busca com sugestões.** Ao digitar, aparecem as cidades com o nome parecido, com estado e
